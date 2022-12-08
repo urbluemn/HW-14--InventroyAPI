@@ -1,0 +1,45 @@
+
+  [
+    {
+      "Name": "Apple",
+      "Type": "Food",
+      "Amount": 25,
+      "Price": 2.50
+    },
+
+    {
+      "Name": "Chocolate Bar",
+      "Type": "Food",
+      "Amount": 15,
+      "Price": 4.00
+    },
+
+    {
+      "Name": "Washing Powder",
+      "Type": "Chemicals",
+      "Amount": 10,
+      "Price": 6.25
+    },
+
+    {
+      "Name": "Soap",
+      "Type": "Chemicals",
+      "Amount": 20,
+      "Price": 1.50
+    },
+
+    {
+      "Name": "Cell Phone",
+      "Type": "Machinery",
+      "Amount": 10,
+      "Price": 80.00
+    },
+
+    {
+      "Name": "Washing Machine",
+      "Type": "Machinery",
+      "Amount": 4,
+      "Price": 150.00
+    }
+  ]
+
